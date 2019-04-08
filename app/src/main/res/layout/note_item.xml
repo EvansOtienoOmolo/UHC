@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:layout_marginTop="8dp"
+    android:layout_marginStart="8dp"
+    android:layout_marginEnd="8dp">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="8dp">
+
+        <TextView
+            android:id="@+id/textView_County"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="County"
+            android:layout_alignParentStart="true"
+            android:ellipsize="end"
+            android:maxLines="3"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"/>
+
+
+        <TextView
+            android:id="@+id/textView_Hospital"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="hospital"
+            android:layout_below="@id/textView_County"
+            android:layout_alignParentStart="true"
+            android:ellipsize="end"
+            android:maxLines="3"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"/>
+
+        <TextView
+        android:id="@+id/textView_Serial"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:text="123"
+        android:layout_below="@id/textView_Hospital"/>
+
+
+        <TextView
+            android:id="@+id/textView_Comment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:text="Comment"
+            android:layout_below="@id/textView_Serial"/>
+
+        <TextView
+            android:id="@+id/textView_Department"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:text="Department"
+            android:layout_below="@id/textView_Comment"/>
+
+        <TextView
+            android:id="@+id/textView_Date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:text="Date"
+            android:layout_below="@id/textView_Department"/>
+
+        
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>

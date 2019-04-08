@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "730251938913",
+    "firebase_url": "https://hospitalsuggestionbox.firebaseio.com",
+    "project_id": "hospitalsuggestionbox",
+    "storage_bucket": "hospitalsuggestionbox.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730251938913:android:c091dcbc9305b691",
+        "android_client_info": {
+          "package_name": "com.example.intelligenthospitalsuggestionbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730251938913-fucsk92mn1tiijtkj9to32cdv11f0qog.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.intelligenthospitalsuggestionbox",
+            "certificate_hash": "9029db8545d092988022658f73d951c820419d0a"
+          }
+        },
+        {
+          "client_id": "730251938913-4ribj2r453tcdj7qoiv4b366ubndlvt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYYwyqMZDQX9KEGyg89m6q_rwNW8CgWTY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730251938913-4ribj2r453tcdj7qoiv4b366ubndlvt1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730251938913:android:217a9a6c5e5b9720",
+        "android_client_info": {
+          "package_name": "com.example.uhc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730251938913-7n8kapfihs93sbv4d3g6a224cgc1v5g4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uhc",
+            "certificate_hash": "9029db8545d092988022658f73d951c820419d0a"
+          }
+        },
+        {
+          "client_id": "730251938913-4ribj2r453tcdj7qoiv4b366ubndlvt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYYwyqMZDQX9KEGyg89m6q_rwNW8CgWTY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730251938913-4ribj2r453tcdj7qoiv4b366ubndlvt1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

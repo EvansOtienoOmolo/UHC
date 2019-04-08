@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">UHC</string>
+    <string-array name="Counties">
+        <item>Select County</item>
+        <item>Baringo County</item>
+        <item>Bomet County</item>
+        <item>Bungoma County</item>
+        <item>Busia County</item>
+        <item>Elgeyo Marakwet County</item>
+        <item>Embu County</item>
+        <item>Garissa County</item>
+        <item>Homabay County</item>
+        <item>Isiolo County</item>
+        <item>Kajiado County</item>
+        <item>Kakamega County</item>
+        <item>Kericho County</item>
+        <item>Kiambu County</item>
+        <item>Kilifi County</item>
+        <item>Kirinyanga County</item>
+        <item>Kisii County</item>
+        <item>Kisumu County</item>
+        <item>Kitui County</item>
+        <item>Kwale County</item>
+        <item>Laikipia County</item>
+        <item>Lamu County</item>
+        <item>Machakos County</item>
+        <item>Makueni County</item>
+        <item>Mandera County</item>
+        <item>Meru County</item>
+        <item>Migori County</item>
+        <item>Marsabit County</item>
+        <item>MombasaCounty</item>
+        <item>Muranga County</item>
+        <item>Nairobi County</item>
+        <item>Nakuru County</item>
+        <item>Nandi County</item>
+        <item>Narok Marakwet County</item>
+        <item>Nyamira County</item>
+        <item>Nyandarua County</item>
+        <item>Nyeri County</item>
+        <item>Samburu County</item>
+        <item>Siaya County</item>
+        <item>Taita Tavata County</item>
+        <item>Tana River County</item>
+        <item>Tharaka Nithi County</item>
+        <item>Transzoia County</item>
+        <item>Turkana County</item>
+        <item>Uasin Gishu County</item>
+        <item>Vihiga County</item>
+        <item>Wajir County</item>
+        <item>West Pokot County</item>
+
+
+    </string-array>
+
+</resources>
